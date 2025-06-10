@@ -1,8 +1,7 @@
-# 🤖 Multi-Document AI QA RAG Chatbot
-A powerful AI chatbot built with LangChain, ChromaDB, and OpenAI GPT-4o, designed to answer questions from multiple uploaded documents including PDFs, DOCX, TXT, CSV, and images. Powered by Retrieval-Augmented Generation (RAG), this app allows users to interactively query document content with intelligent, context-aware responses.
+# 🤖 Document AI QA RAG Chatbot
+A powerful AI chatbot built with LangChain, ChromaDB, and OpenAI GPT-4o, designed to answer questions from multiple uploaded documents of PDFs. Powered by Retrieval-Augmented Generation (RAG), this app allows users to interactively query document content with intelligent, context-aware responses.
 
 ## 🧠 Features
-📄 Multi-file upload support (PDF, DOCX, TXT, CSV, PNG, JPG)
 
 🧾 PDF + Image OCR (using pdfplumber and pytesseract)
 
@@ -27,7 +26,6 @@ Component	Description
 🎛 Frontend	Streamlit
 
 ## 🚀 How It Works
-Upload files via the sidebar: PDFs, images, CSVs, DOCX, or TXT.
 
 Documents are:
 
